@@ -8,6 +8,8 @@
 - 😺 I'm looking for Dev Job when I will finish my course
 - 🥰 2022 goals: land a job at one of the F.A.A.N.G company
 
+<br />
+
 ---
 
 ### Connect with me:
@@ -17,6 +19,7 @@
 [<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
+<br />
 <br />
 
 ---
@@ -45,11 +48,9 @@
 
 [![Josh's stats](https://github-readme-stats.vercel.app/api?username=josh-normal&hide=prs,issues&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/josh-normal/github-readme-stats)
 
-<br />
-
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/josh-nguyen-1120/
 [instagram]: https://www.instagram.com/josh_nguyen_2000/
