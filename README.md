@@ -46,8 +46,7 @@
 
 ---
 
-| <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-normal&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-normal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 [linkedin]: https://www.linkedin.com/in/josh-nguyen-1120/
 [instagram]: https://www.instagram.com/josh_nguyen_2000/
