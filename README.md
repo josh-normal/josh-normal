@@ -54,7 +54,7 @@
 
 ---
 
-[![Popular repositories](https://github-readme-stats.vercel.app/api/pin/?username=josh-normal&theme=midnight-purple&repo=Josh-Checkers,free-development-resources)](https://github.com/josh-normal/github-readme-stats)
+[![Popular repositories](https://github-readme-stats.vercel.app/api/pin/?username=josh-normal&theme=midnight-purple&repo=Josh-Checkers)](https://github.com/josh-normal/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/josh-nguyen-1120/
 [instagram]: https://www.instagram.com/josh_nguyen_2000/
