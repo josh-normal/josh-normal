@@ -46,7 +46,8 @@
 
 ---
 
-[![Josh's stats](https://github-readme-stats.vercel.app/api?username=josh-normal&hide=prs,issues&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/josh-normal/github-readme-stats)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact&theme=midnight-purple)](https://github.com/josh-normal/github-readme-stats)
+| <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-normal&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [linkedin]: https://www.linkedin.com/in/josh-nguyen-1120/
 [instagram]: https://www.instagram.com/josh_nguyen_2000/
