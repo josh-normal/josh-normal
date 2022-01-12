@@ -47,14 +47,7 @@
 ---
 
 [![Josh's stats](https://github-readme-stats.vercel.app/api?username=josh-normal&hide=prs,issues&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/josh-normal/github-readme-stats)
-
----
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact&theme=midnight-purple)](https://github.com/josh-normal/github-readme-stats)
-
----
-
-[![Popular repositories](https://github-readme-stats.vercel.app/api/pin/?username=josh-normal&theme=midnight-purple&repo=Josh-Checkers)](https://github.com/josh-normal/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/josh-nguyen-1120/
 [instagram]: https://www.instagram.com/josh_nguyen_2000/
