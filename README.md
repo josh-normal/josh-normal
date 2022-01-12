@@ -2,8 +2,7 @@
 
 ### I'm a Full-stack Web Developer
 
-- 🏙️ Living in Toronto
-- 🌱 I’m currently learning Web developement at General Assembly
+- 🏙️ I’m currently learning Web developement at General Assembly
 - 💬 Ask me about experience Learning at General Assembly
 - 😺 I'm looking for Dev Job when I will finish my course
 - 🥰 2022 goals: land a job at one of the F.A.A.N.G company
@@ -12,21 +11,9 @@
 
 ---
 
-### Connect with me:
-
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-
-<br />
-<br />
-
----
-
 ### Languages and Tools:
 
-[<img align="left" alt="visualstudio" width="22px" src="" />]
+[<img align="left" alt="visualstudio" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="git" width="22px" src="" />]
 [<img align="left" alt="github" width="22px" src="" />]
 [<img align="left" alt="terminal" width="22px" src="" />]
@@ -42,6 +29,18 @@
 [<img align="left" alt="django" width="22px" src="" />]
 [<img align="left" alt="mongo" width="22px" src="" />]
 
+<br />
+
+---
+
+### Connect with me:
+
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+
+<br />
 <br />
 
 ---
