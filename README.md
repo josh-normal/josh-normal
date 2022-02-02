@@ -2,10 +2,10 @@
 
 ### I'm a Full-stack Web Developer
 
-- 🏙️ I’m currently learning Web developement at General Assembly
+- 🏙️ I’m currently learning Software Engineer at General Assembly
 - 💬 Ask me about experience Learning at General Assembly
-- 😺 I'm looking for Dev Job when I will finish my course
-- 🥰 2022 goals: land a job at one of the F.A.A.N.G company
+- 😺 I'm looking for Dev Job when I finish my course
+- 🥰 2023 goals: land a job at one of the F.A.A.N.G company
 
 <br />
 
@@ -41,6 +41,8 @@
 [<img align="left" alt="instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="joshnguyentoronto" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />][joshnguyentoronto]
+
 
 <br />
 <br />
@@ -50,6 +52,7 @@
 | <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-normal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/josh-normal/Josh-Checkers"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-normal&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+[joshnguyentoronto]: https://www.joshnguyentoronto.com/
 [linkedin]: https://www.linkedin.com/in/josh-nguyen-1120/
 [instagram]: https://www.instagram.com/josh_nguyen_2000/
 [twitter]: https://twitter.com/J0sh_0gi1w
