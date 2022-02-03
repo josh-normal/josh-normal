@@ -5,7 +5,7 @@
 - 🏙️ I’m currently learning Software Engineer at General Assembly
 - 💬 Ask me about experience Learning at General Assembly
 - 😺 I'm looking for Dev Job when I finish my course
-- 🥰 2023 goals: land a job at one of the F.A.A.N.G company
+- 🥰 2023 goals: land a job at one of the F(M).A.A.N.G company
 
 <br />
 
