@@ -15,22 +15,25 @@
 <p>
     <img align="left" alt="visualstudio" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
-Visual Studio Code\
+<span>Visual Studio Code</span>
 
 <p>
     <img align="left" alt="git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
-Version control Git\
+<span>Version control Git</span>
+
 
 <p>
     <img align="left" alt="github" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
-GitHub\
+<span>GitHub</span>
+
 
 <p>
     <img align="left" alt="terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
-Bash, Zsh, PowerShell\
+<span>Bash, Zsh, PowerShell</span>
+
 
 
 <img align="left" alt="html" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
