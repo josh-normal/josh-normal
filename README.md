@@ -4,8 +4,12 @@
     <img width="200" height="200" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/92001550?v=4">
 </p>
 <p align="center">
-    Check out [My Portfolio](https://joshnguyentoronto.com)!
+    Check out my Portfolio:  https://joshnguyentoronto.com
 </p>
+
+<br />
+
+---
 
 ### I'm a Full-stack Web Developer
 
