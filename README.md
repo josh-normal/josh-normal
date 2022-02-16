@@ -15,22 +15,22 @@
 <p>
     <img align="left" alt="visualstudio" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
-Visual Studio Code
+Visual Studio Code\
 
 <p>
     <img align="left" alt="git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
-Version control Git
+Version control Git\
 
 <p>
     <img align="left" alt="github" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
-GitHub
+GitHub\
 
 <p>
     <img align="left" alt="terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
-Bash, Zsh, PowerShell
+Bash, Zsh, PowerShell\
 
 
 <img align="left" alt="html" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
