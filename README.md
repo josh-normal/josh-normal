@@ -1,5 +1,9 @@
 # Hi there, I'm Josh. Nice to meet you 👋
 
+<p align="center">
+    <img width="200" height="200" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/92001550?v=4">
+</p>
+
 ### I'm a Full-stack Web Developer
 
 - 🏙️ I’m currently learning Software Engineer at General Assembly
@@ -13,24 +17,24 @@
 
 ### Languages and Tools that I use:
 <p>
-    <img alt="visualstudio" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><span>Visual Studio Code</span>
+    <img alt="visualstudio" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><font size="4">Visual Studio Code</font>
 </p>
 
 <p>
-    <img alt="git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><span>Version control Git</span>
+    <img alt="git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><font size="4">Version control Git</font>
 </p>
 
 
 <p>
     <img align="left" alt="github" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
-<span>GitHub</span>
+<font>GitHub</font>
 
 
 <p>
     <img align="left" alt="terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
-<span>Bash, Zsh, PowerShell</span>
+<font>Bash, Zsh, PowerShell</font>
 
 
 
