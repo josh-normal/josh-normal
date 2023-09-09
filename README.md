@@ -97,7 +97,7 @@
 ---
 
 <h3>
-    Connect with me: <a style="color: blue; text-decoration: underline;" href="www.linkedin.com/in/joshnguyentoronto/" target="_blank">on LinkedIn</a>
+    Connect with me: www.linkedin.com/in/joshnguyentoronto/
 </h3>
 <h3>
     Check out my Portfolio: <a style="color: blue; text-decoration: underline;" href="https://joshnguyentoronto.com" target="_blank">https://joshnguyentoronto.com</a>
